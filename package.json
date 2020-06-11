@@ -1,0 +1,26 @@
+{
+  "name": "m-utl",
+  "version": "0.0.1",
+  "description": "js utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpmax00/m-utl.git"
+  },
+  "keywords": [
+    "js",
+    "utility"
+  ],
+  "author": "hpmax00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpmax00/m-utl/issues"
+  },
+  "homepage": "https://github.com/hpmax00/m-utl#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
