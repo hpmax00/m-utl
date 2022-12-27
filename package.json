@@ -22,5 +22,8 @@
   "homepage": "https://github.com/hpmax00/m-utl#readme",
   "dependencies": {
     "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1"
   }
 }
